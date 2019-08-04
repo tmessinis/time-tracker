@@ -26,19 +26,6 @@ public class Tracker {
         return entries.size();
     }
 
-    public TimeEntry get(int index) {
-        try {
-
-        } catch (Exception e) {
-
-        }
-
-        boolean valid = false;
-
-        if (valid = true) {
-            // whatever
-        }
-
         return entries.get(index);
     }
 }
